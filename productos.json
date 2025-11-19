@@ -5,33 +5,35 @@
       "nombre": "Cartera Beige Mini Glossy",
       "precio": 55000,
       "descripcion": "Cartera elegante con acabado glossy en tono beige, ideal para looks modernos y minimalistas.",
-      "imagen": "https://i.imgur.com/Hnno9oH.jpg",
+      "imagen": "https://i.imgur.com/Hnno9oH.jpeg",
       "categoria": "bolsos"
     },
     {
       "id": 902,
       "nombre": "Cartera Trenzada Blanca Premium",
       "precio": 65000,
-      "descripcion": "Bolso trenzado en tono blanco premium con broche dorado, sofisticado y perfecto para cualquier ocasion.",
-      "imagen": "https://i.imgur.com/Zz13aS1.jpg",
+      "descripcion": "Bolso trenzado en tono blanco premium con broche dorado, sofisticado y perfecto para cualquier ocasión.",
+      "imagen": "https://i.imgur.com/Zz13aS1.jpeg",
       "categoria": "bolsos"
     },
     {
       "id": 903,
       "nombre": "Cartera Mini Blanca Glossy",
       "precio": 55000,
-      "descripcion": "Cartera mini con acabado glossy blanco brillante, pequena pero con estilo premium.",
-      "imagen": "https://i.imgur.com/xnBDJ1F.jpg",
+      "descripcion": "Cartera mini con acabado glossy blanco brillante, pequeña pero con estilo premium.",
+      "imagen": "https://i.imgur.com/xnBDJ1F.jpeg",
       "categoria": "bolsos"
     },
     {
       "id": 904,
       "nombre": "Bolso Pearl Nude Deluxe",
       "precio": 62000,
-      "descripcion": "Bolso en tono nude perlado con diseno clasico y elegante.",
-      "imagen": "https://i.imgur.com/288wzgX.jpeg",
+      "descripcion": "Bolso en tono nude perlado con diseño clásico y elegante.",
+      "imagen": "https://i.imgur.com/2B8w2eX.jpeg",
       "categoria": "bolsos"
-    },
+    }
+  ]
+}
     {
       "id": 905,
       "nombre": "Bolso Rose Pastel Mini",
