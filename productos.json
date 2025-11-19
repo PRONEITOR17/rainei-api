@@ -2,27 +2,221 @@
   "productos": [
     {
       "id": 901,
-      "nombre": "Collar Dorado Fino",
-      "precio": 45000,
-      "descripcion": "Collar elegante bañado en oro.",
-      "imagen": "https://i.imgur.com/E7Z9YwT.jpeg",
-      "categoria": "accesorio"
+      "nombre": "Cartera Beige Mini Glossy",
+      "precio": 55000,
+      "descripcion": "Cartera elegante con acabado glossy en tono beige, ideal para looks modernos y minimalistas.",
+      "imagen": "https://i.imgur.com/Hnno9oW.jpeg",
+      "categoria": "bolsos"
     },
     {
       "id": 902,
-      "nombre": "Aretes Elegantes",
-      "precio": 30000,
-      "descripcion": "Aretes modernos para cualquier ocasión.",
-      "imagen": "https://i.imgur.com/QtFeEBI.jpeg",
-      "categoria": "accesorio"
+      "nombre": "Cartera Trenzada Blanca Premium",
+      "precio": 65000,
+      "descripcion": "Bolso trenzado en tono blanco premium con broche dorado, sofisticado y perfecto para cualquier ocasión.",
+      "imagen": "https://i.imgur.com/Zz13aS1.jpeg",
+      "categoria": "bolsos"
     },
     {
       "id": 903,
-      "nombre": "Pulsera Minimalista",
-      "precio": 25000,
-      "descripcion": "Pulsera fina y elegante.",
-      "imagen": "https://i.imgur.com/Chro3VC.jpeg",
-      "categoria": "accesorio"
+      "nombre": "Cartera Mini Blanca Glossy",
+      "precio": 55000,
+      "descripcion": "Cartera mini con acabado glossy blanco brillante, pequeña pero con estilo premium.",
+      "imagen": "https://i.imgur.com/xnBDJ1F.jpeg",
+      "categoria": "bolsos"
+    },
+
+    {
+      "id": 904,
+      "nombre": "Bolso Pearl Nude Deluxe",
+      "precio": 62000,
+      "descripcion": "Bolso en tono nude perlado con diseño clásico y elegante.",
+      "imagen": "https://i.imgur.com/288wzgX.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 905,
+      "nombre": "Bolso Classic Beige Elegance",
+      "precio": 57000,
+      "descripcion": "Diseño beige tradicional con detalles suaves y forma clásica.",
+      "imagen": "https://i.imgur.com/1Szjfwh.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 906,
+      "nombre": "Bolso Golden Edge Premium",
+      "precio": 65000,
+      "descripcion": "Bolso beige con borde dorado y estilo sofisticado.",
+      "imagen": "https://i.imgur.com/xvPSyaL.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 907,
+      "nombre": "Bolso Cream Soft Luxury",
+      "precio": 59000,
+      "descripcion": "Bolso suave en tono crema con diseño minimalista y elegante.",
+      "imagen": "https://i.imgur.com/F5hGETR.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 908,
+      "nombre": "Bolso Textura Beige Diamond",
+      "precio": 64000,
+      "descripcion": "Diseño texturizado beige con acabado tipo diamante.",
+      "imagen": "https://i.imgur.com/mSPcnrI.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 909,
+      "nombre": "Bolso Croco Luxe Blanco",
+      "precio": 68000,
+      "descripcion": "Bolso blanco estilo cocodrilo con detalles dorados elegantes.",
+      "imagen": "https://i.imgur.com/EUlQgum.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 910,
+      "nombre": "Bolso Soft Taupe Dream",
+      "precio": 62000,
+      "descripcion": "Bolso suave en tono taupe con diseño clásico y versátil.",
+      "imagen": "https://i.imgur.com/WQ0gZcE.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 911,
+      "nombre": "Bolso Mini Gloss Nude",
+      "precio": 55000,
+      "descripcion": "Mini bolso nude con acabado glossy súper femenino.",
+      "imagen": "https://i.imgur.com/vzEnmmV.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 912,
+      "nombre": "Bolso Soft Cream Essential",
+      "precio": 53000,
+      "descripcion": "Bolso esencial en tono crema con textura suave.",
+      "imagen": "https://i.imgur.com/cj7fF3c.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 913,
+      "nombre": "Bolso Classic White Premium",
+      "precio": 60000,
+      "descripcion": "Bolso blanco clásico con forma elegante y minimalista.",
+      "imagen": "https://i.imgur.com/nT6cXAY.jpg",
+      "categoria": "bolsos"
+    },
+
+    {
+      "id": 914,
+      "nombre": "Bolso Honey Beige Elegance",
+      "precio": 59000,
+      "descripcion": "Bolso beige miel con diseño moderno y acabado suave.",
+      "imagen": "https://i.imgur.com/vuUZEeM.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 915,
+      "nombre": "Bolso Cream Pearl Edition",
+      "precio": 61000,
+      "descripcion": "Bolso en tono crema perlado elegante y refinado.",
+      "imagen": "https://i.imgur.com/h5VcbvW.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 916,
+      "nombre": "Bolso Nude Trenzado Deluxe",
+      "precio": 65000,
+      "descripcion": "Bolso nude trenzado con diseño artesanal premium.",
+      "imagen": "https://i.imgur.com/necjExr.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 917,
+      "nombre": "Bolso Almond White Signature",
+      "precio": 58000,
+      "descripcion": "Bolso blanco almendra con un diseño delicado.",
+      "imagen": "https://i.imgur.com/hZp6lAf.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 918,
+      "nombre": "Bolso Suede Cream Luxury",
+      "precio": 62000,
+      "descripcion": "Bolso estilo suede en crema suave y elegante.",
+      "imagen": "https://i.imgur.com/kPDUm4A.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 919,
+      "nombre": "Bolso Classic White Deluxe",
+      "precio": 59000,
+      "descripcion": "Bolso blanco clásico con diseño premium.",
+      "imagen": "https://i.imgur.com/sWjGCGl.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 920,
+      "nombre": "Bolso Ivory Gloss Premium",
+      "precio": 66000,
+      "descripcion": "Bolso marfil con acabado glossy y forma elegante.",
+      "imagen": "https://i.imgur.com/gSviBpU.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 921,
+      "nombre": "Bolso Soft Beige Chic",
+      "precio": 59000,
+      "descripcion": "Bolso beige suave con estilo moderno y femenino.",
+      "imagen": "https://i.imgur.com/4abGIJK.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 922,
+      "nombre": "Bolso Almond Luxe White",
+      "precio": 60000,
+      "descripcion": "Bolso blanco almendra con diseño elegante y versátil.",
+      "imagen": "https://i.imgur.com/pIXLX0t.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 923,
+      "nombre": "Bolso Cream Glow Edition",
+      "precio": 62000,
+      "descripcion": "Bolso crema con acabado suave y estilo delicado.",
+      "imagen": "https://i.imgur.com/f7t7grK.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 924,
+      "nombre": "Bolso Pearl Nude Premium",
+      "precio": 65000,
+      "descripcion": "Bolso nude perlado con forma clásica y sofisticada.",
+      "imagen": "https://i.imgur.com/9TPkprz.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 925,
+      "nombre": "Bolso Elegant White Diamond",
+      "precio": 68000,
+      "descripcion": "Bolso blanco elegante con textura brillante tipo diamante.",
+      "imagen": "https://i.imgur.com/fxWK1fZ.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 926,
+      "nombre": "Bolso White Gloss Mini",
+      "precio": 52000,
+      "descripcion": "Mini bolso glossy blanco con diseño femenino y moderno.",
+      "imagen": "https://i.imgur.com/8sRQsru.jpg",
+      "categoria": "bolsos"
+    },
+    {
+      "id": 927,
+      "nombre": "Bolso Peach Soft Luxury",
+      "precio": 60000,
+      "descripcion": "Bolso suave en tono durazno con acabado premium.",
+      "imagen": "https://i.imgur.com/7kFIIPa.jpg",
+      "categoria": "bolsos"
     }
   ]
 }
