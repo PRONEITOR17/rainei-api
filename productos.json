@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 901,
+      "nombre": "Collar Dorado Fino",
+      "precio": 45000,
+      "descripcion": "Collar elegante bañado en oro.",
+      "imagen": "https://i.imgur.com/E7Z9YwT.jpeg",
+      "categoria": "accesorio"
+    },
+    {
+      "id": 902,
+      "nombre": "Aretes Elegantes",
+      "precio": 30000,
+      "descripcion": "Aretes modernos para cualquier ocasión.",
+      "imagen": "https://i.imgur.com/QtFeEBI.jpeg",
+      "categoria": "accesorio"
+    },
+    {
+      "id": 903,
+      "nombre": "Pulsera Minimalista",
+      "precio": 25000,
+      "descripcion": "Pulsera fina y elegante.",
+      "imagen": "https://i.imgur.com/Chro3VC.jpeg",
+      "categoria": "accesorio"
+    }
+  ]
+}
